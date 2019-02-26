@@ -43,3 +43,7 @@ The bot can be deployed as a crontab to run daily.
   │ └──────────────────── hour (0 - 23)
   └───────────────────────── min (0 - 59)
 ```
+
+## Contributors
+
+* [marcoangulo](https://github.com/marcoangulo)
