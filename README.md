@@ -46,4 +46,4 @@ The bot can be deployed as a crontab to run daily.
 
 ## Contributors
 
-* [marcoangulo](https://github.com/marcoangulo)
+* [mangulof](https://github.com/mangulof)
